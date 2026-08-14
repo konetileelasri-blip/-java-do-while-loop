@@ -90,7 +90,4 @@ This project is designed for Java beginners to understand the `do-while` loop an
 
 K.Leelasri
 
-## 📄 License
-
-This project is for educational purposes.
 # -java-do-while-loop
